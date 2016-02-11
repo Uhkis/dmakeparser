@@ -1,0 +1,24 @@
+{
+  "name": "dmakeparser",
+  "version": "1.0.0",
+  "description": "Simple utility to parse Drupal 7 makefiles.",
+  "main": "makeparser.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uhkis/dmakeparser.git"
+  },
+  "keywords": [
+    "drupal",
+    "node",
+    "makefile"
+  ],
+  "author": "Uhkis",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Uhkis/dmakeparser/issues"
+  },
+  "homepage": "https://github.com/Uhkis/dmakeparser#readme"
+}
