@@ -2,7 +2,7 @@
   "name": "dmakeparser",
   "version": "1.0.0",
   "description": "Simple utility to parse Drupal 7 makefiles.",
-  "main": "makeparser.js",
+  "main": "dmakeparser.js",
   "scripts": {
     "test": "node test/test.js"
   },
